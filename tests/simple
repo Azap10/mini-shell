@@ -1,0 +1,1 @@
+A=/c/cs323/proj4/tests/star.wars (cat A | wc) && true

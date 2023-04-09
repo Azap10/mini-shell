@@ -1,0 +1,26 @@
+Date        Time Spent      Activity
+-------------------------------------
+3/18        1 hour          Read through spec, watched walkthrough
+
+3/27        3 hours         Implemented very simple commands.
+
+3/28        1 hour          Implemented here docs, appending.
+
+3/30        3.5 hours       Implemented pipes, exit codes, started on conditionals
+
+3/31        3 hours         Fixed conditionals, implemented subcommands, started on
+                            background and end processes
+
+4/1         2 hours         Continued on making/debugging bg and end.
+
+4/2         2.5 hours       Fixed bg and end, started built-in commands
+
+4/3         2 hours         Implemented pushd, popd, passed all publics
+
+4/4         1 hour          Debugged error codes
+
+4/5         1 hour          Implemented ctrl-C handling for simples, pipes, andor,
+                            subcommands. Debugged error codes by changing use of STATUS
+                            macro.
+-------------------------------------
+TOTAL:      18 hours
